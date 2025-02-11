@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/athrpam_pickles/static/css/main.10ab0bb5.css",
+    "main.js": "/athrpam_pickles/static/js/main.32e94a04.js",
+    "static/js/453.ccfcf8df.chunk.js": "/athrpam_pickles/static/js/453.ccfcf8df.chunk.js",
+    "index.html": "/athrpam_pickles/index.html",
+    "static/media/logo.svg": "/athrpam_pickles/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.10ab0bb5.css.map": "/athrpam_pickles/static/css/main.10ab0bb5.css.map",
+    "main.32e94a04.js.map": "/athrpam_pickles/static/js/main.32e94a04.js.map",
+    "453.ccfcf8df.chunk.js.map": "/athrpam_pickles/static/js/453.ccfcf8df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10ab0bb5.css",
+    "static/js/main.32e94a04.js"
+  ]
+}
